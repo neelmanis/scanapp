@@ -1,0 +1,22 @@
+<style>
+  .widget-counter{
+    font-weight: bold;
+    color: #47296d;
+  }
+  .card-body.user{
+    background-color: #f3d1f5;
+  }
+</style>
+
+<div class="row page-titles">
+  <div class="col-md-5 align-self-center">
+    <h4 class="text-themecolor">Dashboard</h4>
+  </div>
+  <div class="col-md-7 align-self-center text-right"></div>
+</div>
+
+<div class="row mt-4">
+  <div class="col-lg-12">
+
+  </div>
+</div>
